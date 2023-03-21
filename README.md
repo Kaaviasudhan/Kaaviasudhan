@@ -3,12 +3,12 @@
 
 <!--I am ***Kaaviasudhan*** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Welcome to my Github profile! My name is ***Kaaviasudhan***, and I am a Student at Coimbatore Institute of Technology, Coimbatore. <br>I am passionate about Software as well as Data Analytics, and I enjoy sharing my knowledge and learning from others.
+Welcome to my Github profile! My name is ***Kaaviasudhan***, and I am a Student at Coimbatore Institute of Technology, Coimbatore. <br>I am passionate about Software System as well as Data Analytics, and I enjoy sharing my knowledge and learning from others.
 
 ### About Me
-🎓 I currently pursing M.Sc in Decision and Computing Department from Coimbatore Institute of Technology.
+🎓 I currently pursing **M.Sc in Decision and Computing Department from Coimbatore Institute of Technology**.
 
-🌱 I am currently learning Web development, Mobile app development, Machine learning, Data analysis and visualization to improve my skills and stay up-to-date with the latest trends in the industry.
+🌱 I am currently learning **Web development, Mobile app development, Machine learning, Data analysis and visualization, DSA to improve my skills and stay up-to-date with the latest trends in the industry**.
 
 📫 How to reach me: <br>
     <!--<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> kaaviasudhancit716@gmail.com-->
