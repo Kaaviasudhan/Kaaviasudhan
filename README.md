@@ -12,7 +12,7 @@
 
 ### **About Myself:**
 - 🎓 I currently pursing **M.Sc in Decision and Computing Department from Coimbatore Institute of Technology**.
-- 🙍🏽‍♂️  Current: Looking for Internship in 2023.
+- 🙍🏽‍♂️  Current: Looking for Internship in 2025 (From Nov, 2024).
 - 🌱 I am currently learning **Web development, Mobile app development, Machine learning, Data analysis and visualization, DSA to improve my skills and stay up-to-date with the latest trends in the industry**.
 
 - 📫 Reach me in: <br><br>
